@@ -4,7 +4,10 @@ A modern and responsive luxury watch e-commerce frontend template built with Rea
 
 ## Website Preview
 
-![Tempus Website Preview](screenshots/tempus-preview.png)
+![Tempus Website Preview](screenshots/tempus-preview01.png)
+
+![Tempus Website Preview](screenshots/tempus-preview02.png)
+
 
 **Live Demo:** https://tempus-watch-store-phi.vercel.app/
 
